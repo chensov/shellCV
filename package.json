@@ -1,0 +1,19 @@
+{
+  "name": "arsen-cv",
+  "version": "1.0.0",
+  "description": "Arsen's CV",
+  "main": "./cv.sh",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chensov/npmCV.git"
+  },
+  "author": "Arsen Chensov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chensov/npmCV/issues"
+  },
+  "homepage": "https://github.com/chensov/npmCV#readme"
+}
